@@ -1,4 +1,4 @@
-# Team_Task_Manager_-Full-Stack-
+# Team_Task_Manager_Full_Stack
 
 Team Task Manager is a full-stack web application designed to help teams efficiently manage their work by organizing projects, assigning tasks, and tracking progress. The system provides a structured environment where users can collaborate while maintaining clear responsibilities and visibility over ongoing work.
 
